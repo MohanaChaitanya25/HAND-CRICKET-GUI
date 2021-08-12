@@ -3,7 +3,7 @@
 This is a Hand Cricket GUI game created using Python.
 
 ## Technologies Used
-- **LANGUAGE** : PYTHON
+- **LANGUAGE** : PYTHON 3
 - **GUI TOOLKIT** : TKINTER
 
 ## IDE Used
