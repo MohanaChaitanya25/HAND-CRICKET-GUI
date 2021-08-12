@@ -1,6 +1,6 @@
 # HAND-CRICKET-GUI
 
-This is a small Hand Cricket GUI game created using Tkinter
+This is a small Hand Cricket GUI game created using Python Tkinter
 
 ## Technologies Used
 - **LANGUAGE** : PYTHON
