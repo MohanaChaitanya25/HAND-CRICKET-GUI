@@ -1,6 +1,6 @@
 # HAND-CRICKET-GUI
 
-This is a small Hand Cricket GUI game created using Python.
+This is a Hand Cricket GUI game created using Python.
 
 ## Technologies Used
 - **LANGUAGE** : PYTHON
